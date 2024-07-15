@@ -1,0 +1,25 @@
+{
+    "name": "gabrielbs/laravel-rabbitmq",
+    "description": "",
+    "version": "dev-main",
+    "keywords": [
+        "gabrielbs",
+        "laravel",
+        "rabbitmq"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Batista",
+            "email": "contato@gabrielbs.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gabrielbs\\Rabbitmq\\": "src/"
+        }
+    }
+}
